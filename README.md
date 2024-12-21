@@ -3,7 +3,7 @@
 Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum! 🌍  
 Şu anda `Java`, `React`, `Next.js` ve `Spring Boot` üzerinde çalışıyorum.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Merhaba!+Ben+%5BAd%C4%B1n%5D;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Kod+Hayat%C4%B1m%C4%B1n+Merkezinde)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Merhaba!+Ben+Muhammed+Furkan+Kırcı;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Kod+Hayat%C4%B1m%C4%B1n+Merkezinde)](https://git.io/typing-svg)
 ## 🔧 Yeteneklerim
 
 - 💻 Programlama Dilleri: `Java`, `JavaScript`
