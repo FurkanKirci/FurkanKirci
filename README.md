@@ -15,7 +15,7 @@ Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum! 🌍
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkanKirci&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanKirci&layout=compact&theme=radical)
 
 ## 🌐 Beni Bulun
 
